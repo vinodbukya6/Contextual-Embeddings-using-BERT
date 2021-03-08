@@ -2,7 +2,7 @@
 
 For Extracting word embeddings using BERT model used in bert_cnn_sentiment.ipynb
 
- Use BERT_Embeddings_Pipeline.ipynb For Extracting Sentence Level(contextual) Embeddings using BERT model.
+ Use** BERT_Embeddings_Pipeline.ipynb** For Extracting Sentence Level(contextual) Embeddings using BERT model.
 
 Text Classification using BERT Embeddings Steps:
 1. Extract emebddings for each word in dataset, save ids of every word. Like Glove embeddings.
